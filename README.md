@@ -1,4 +1,16 @@
-# bhagavad_gita
+## BHAGAVAD GITA  श्रीमद्भगवद्गीता
+
+#
+
+![image](https://github.com/user-attachments/assets/9323aeed-33bc-4429-b183-5bea14e87c3b)      ![image](https://github.com/user-attachments/assets/d2d730dd-16fa-4209-9e33-98e17392b0fc) ![image](https://github.com/user-attachments/assets/8d217721-6736-430e-bee5-a8e606ecbe62)
+
+#
+
+![image](https://github.com/user-attachments/assets/915b034e-d7f1-43f0-b479-6071802e4782)    ![image](https://github.com/user-attachments/assets/3c00e9ec-555a-4b76-aba0-f829dfdd70e6)    ![image](https://github.com/user-attachments/assets/79913126-b8f3-4935-b116-8b98554f09fb)
+
+
+
+
 
 A new Flutter project.
 
