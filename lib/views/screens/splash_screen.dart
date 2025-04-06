@@ -51,7 +51,7 @@ class _SplashScreenState extends State<SplashScreen> {
                       backgroundColor: Colors.white.withOpacity(0.4)),
                   textScaleFactor: 2),
               Text(
-                "Made with love 💕 in India",
+                "Made with devotion 💕 in India by Narender",
                 style: TextStyle(
                     fontSize: 14,
                     fontWeight: FontWeight.w500,
